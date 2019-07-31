@@ -1,0 +1,779 @@
+.body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.head{
+	background-color: #0a2345;
+	padding: 20px 0;
+}
+
+
+.sec-A{
+    padding-top: 80px;
+    padding-bottom: 120px;
+	background-color: #0a2345;
+}
+
+
+.head-tittle h1{
+	color: #fff;
+	text-align: center;
+}
+
+.logoo{
+
+}
+.head-tittle p{
+	color:#2a5da3;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+
+.coeluso{
+	color:#2a5da3;
+	text-align: center;
+	font-size: 
+}
+
+
+.head-tittle button {
+    color: #fff;
+    display: block;
+    background-color: #0a2345;
+    border: 2px solid #2a5da3;
+    padding: 10px 15px;
+    border-radius: 22px;
+    margin: 0 auto;
+    transition: 0.2s;
+ }
+
+ .head-tittle button:hover{
+    background-color: #2a5da3;
+ }
+
+ .sec-B{
+ 	background-color: #0a2345;
+ 	padding-top: 60px;
+ 	padding-bottom: 215px;
+
+ }
+
+ .b-main{
+ 
+
+ }
+::selection{
+    color: #DB2D2F;
+    
+}
+.carousel-control-next-icon{
+    background-image: none;
+}
+
+.carousel-control-prev-icon{
+    background-image: none;
+}
+
+
+ .backk{
+ 	position: relative;
+
+ }
+
+
+
+ .no-padding{
+ 	padding: 0px;
+ }
+
+
+.hh {
+    position: absolute;
+    top: -2%;
+    width: 18%;
+    left: 17%;
+}
+
+.hh-two {
+    position: absolute;
+    top: -88px;
+    left: 38.6%;
+    width: 23%;
+}
+
+.hh-three {
+    position: absolute;
+    right: 17%;
+    width: 18%;
+    top: -2%;
+}
+
+
+.sec-C{
+	padding:80px 0px;
+	padding-bottom: 110px;
+	background:#0a2345;
+}
+
+.sec-c-img{
+	position: relative;
+}
+
+.sec-c-tittle h1 {
+    color: #fff;
+    font-size: 35px;
+}
+
+
+.headphone {
+    position: absolute;
+    top: -40px;
+    left: -103px;
+    width: 100%;
+}
+
+.sec-c-tittle p {
+    color: #66778e;
+    line-height: 30px;
+    padding: 20px 0px;
+}
+
+.sec-c-tittle button {
+    background: none;
+    color: #fff;
+    border: 2px solid #153b6d;
+    padding: 9px 30px;
+    border-radius: 23px;
+    transition: 0.2s;
+}
+
+.sec-c-tittle button:hover{
+    background: #153b6d;
+    }
+.sec-D{
+	background:#0a2345;
+	padding: 30px 0px;
+	padding-bottom: 150px;
+}
+
+.d-tittle-top h1{
+	color: #fff;
+	text-align: center;
+	padding-bottom: 90px;
+}
+.vol{
+
+}
+.beatt{
+
+}
+.headp{
+
+}
+.disc{
+
+}
+.d-main h3 {
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 10px;
+        font-size: 25px;
+
+}
+
+.d-main p{
+	color: #66778e;
+	line-height: 27px;
+	    font-size: 15px;
+}
+
+
+.dd-main h3 {
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 10px;
+        font-size: 25px;
+}
+
+.dd-main p{
+	color: #66778e;
+	line-height: 27px;
+	    font-size: 15px;
+
+}
+
+.mobilee{
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+
+.mb-back{
+
+}
+
+.beatt{
+	padding-top: 45px;
+}
+
+
+.disc{
+	padding-top: 45px;
+}
+
+
+.sec-E{
+	background:#0a2345;
+
+	padding-bottom: 300px;
+}
+
+.e-tittle img{
+	padding-bottom: 20px;
+	    padding-top: 60px;
+}
+
+.e-tittle h3{
+	color: #fff;
+	font-size: 30px;
+	    padding-bottom: 15px;
+}
+
+.e-tittle p{
+	color: #66778e;
+	line-height: 30px;
+	font-size: 16px;
+	    
+	}
+
+.e-flyer{
+	position: relative;
+}
+
+.e-flyer img{
+position: absolute;
+}
+
+
+.sec-F{
+	background: #071327;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+ .f-top h5{
+ 	color: #66778e;
+    padding-bottom: 35px;
+    padding-top: 23px;
+ }
+
+
+.second-F{
+	padding-bottom: 52px;
+}
+
+.qq {
+    width: 27%;
+    float: right;
+    padding-top: 4px;
+}
+.cc-tittle p{
+    color: #fff;
+    float: left;
+    padding-top: 10px;
+}
+
+.isti{
+	color: #66778e;
+	font-size: 15px;
+}
+
+.indicc li{
+	height: 10px;
+	width: 11px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color:#335a95;
+    background-clip: padding-box;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    border-radius: 50%;
+    transition: opacity .6s ease;
+}
+
+.sec-G{
+	background-color: #02050a;
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
+
+.tittle-g h1{
+	color: #fff;
+	padding-bottom: 10px;
+}
+
+.tittle-g p{
+	color: #66778e;
+	    padding-bottom: 50px;
+}
+
+.g-img{
+	max-width: 95%;
+}
+
+.g-second button {
+    background: transparent;
+    border: 2px solid #133765;
+    padding: 10px 15px;
+    color: #fff;
+    margin: 0 auto;
+    display: block;
+    border-radius: 23px;
+    margin-top: 60px;transition: 0.2s;
+}
+
+.g-second button:hover{
+
+color: #DB2D2F;
+}
+.foot{
+	background-color: #02050a;
+
+}
+.borderr{
+	border-top: 1px solid #0d1625;
+}
+
+.foot-left ul{
+	 list-style: none;
+	     padding-top: 15px;
+
+}
+
+.foot-left ul li{
+	 display: inline;
+	 padding-right: 10px;
+
+}
+
+.foot-left ul li a{
+    color: #2a66b5;
+	text-decoration: none;
+	font-size: 15px;
+    transition: 0.2s;
+}
+.foot-left ul li a:hover{
+    color: #fff;
+}
+
+.foot-right p{
+ text-align: right;
+ font-size: 14px;
+ padding-top: 15px;
+ color: #14396a;
+}
+
+
+
+
+@media (min-width: 320px) and (max-width: 479px){
+
+.logoo {
+    display: block;
+    margin: 0 auto;
+    max-width: 55%;
+}
+
+.head-tittle h1 {
+    font-size: 35px;
+}
+
+.sec-A {
+    padding-top: 20px;
+    padding-bottom: 50px;}
+
+.head-tittle p {
+
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+
+.hh {
+
+    top: -33%;
+    width: 22%;
+    left: 10%;
+}
+
+.hh-three {
+    position: absolute;
+    right: 10%;
+    width: 22%;
+    top: -33%;
+}
+
+.hh-two {
+    position: absolute;
+    top: -72px;
+    left: 34%;
+    width: 32%;
+}
+
+.head-tittle button {
+
+    padding: 8px 12px;
+
+}
+
+.sec-B {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+.sec-C{
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+
+.sec-c-tittle h1 {
+    font-size: 30px;
+    padding-bottom: 75px;
+    text-align: right;
+}
+
+.headphone {
+
+    top: 50px;
+    width: 56%;
+    left: 0%;}
+
+    .sec-c-tittle p {
+    font-size: 15px;
+        padding-bottom: 0px;
+}
+
+.sec-c-tittle button {
+
+    display: block;
+    margin: 0 auto;
+}
+
+.d-tittle-top h1 {
+    font-size: 30px;
+        padding-bottom: 30px;
+}
+.disc{
+display: block;
+    margin: 0 auto;
+    width: 17%;
+    padding-top: 0px;
+}
+.headp{
+display: block;
+    margin: 0 auto;
+    width: 17%;
+        padding-top: 15px;
+}
+
+.beatt{
+display: block;
+    margin: 0 auto;
+    width: 17%;
+    padding-top: 0px;
+}
+
+.vol {
+    display: block;
+    margin: 0 auto;
+    width: 17%;
+}
+
+.d-main h3 {
+    font-size: 21px;
+    text-align: center;
+}
+
+.dd-main h3 {
+    font-size: 21px;
+    text-align: center;
+}
+
+.mobilee {
+    width: 25%;}
+
+    .sec-D {
+
+    padding-bottom: 0px;
+}
+
+.e-tittle img {
+    padding-bottom: 20px;
+    padding-top: 0px;
+    display: block;
+    margin: 0 auto;
+width: 17%}
+
+.e-tittle h3 {
+    font-size: 21px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.sec-E {
+ 
+    padding-bottom: 260px;
+}
+
+.sec-F {
+    padding-top: 35px;
+    padding-bottom: 5px;
+}
+
+.e-tittle p {
+    color: #66778e;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.f-top h5 {
+    padding-bottom: 10px;
+    padding-top: 25px;
+    font-size: 12px;
+}
+
+.qq {
+    width: 15%;
+    margin: 0 auto;
+    display: block;
+    float: none;
+}
+.cc-tittle p {
+    text-align: center;
+    font-size: 12px;
+    float: none;
+}
+.isti {
+    color: #66778e;
+    font-size: 14px;
+}
+.sec-G {
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.tittle-g h1 {
+    font-size: 30px;
+}
+
+.tittle-g p {
+
+    padding-bottom: 25px;
+    font-size: 15px;
+}
+
+.g-second button {
+    padding: 8px 10px;
+    margin-top: 45px;
+
+}
+
+.foot-right p {
+    text-align: center;
+    font-size: 14px;
+    padding-top: 0px;
+}
+
+.foot-left ul {
+
+    padding-top: 5px;
+    padding-left: 26px;
+}
+
+.foot-left ul li {
+    padding-right: 0px;
+}
+
+.foot-left ul li a {
+    color: #2a66b5;}
+
+    .sec-A {
+    padding-top: 45px;
+    padding-bottom: 90px;
+    background-color: #0a2345;
+}
+
+}
+
+
+
+@media (min-width: 480px) and (max-width: 767px ){
+
+    .logoo {
+    display: block;
+    margin: 0 auto;
+}
+
+.foot-left ul {
+    list-style: none;
+    padding-top: 15px;
+    text-align: center;
+    padding-left: 0;
+}
+
+.foot-left ul li a {
+    color: #2a66b5;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.hh {
+    position: absolute;
+    top: -18%;
+    width: 23%;
+    left: 11%;
+}
+.hh-two {
+    position: absolute;
+    top: -88px;
+    left: 36%;
+    width: 30%;
+}
+
+.hh-three {
+    position: absolute;
+    right: 9%;
+    width: 23%;
+    top: -19%;
+}
+
+.sec-A {
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.sec-B {
+    padding-top: 60px;
+    padding-bottom: 140px;
+}
+
+.sec-c-tittle button {
+    margin: 0 auto;
+    display: block;}
+
+    .sec-C {
+    padding-bottom: 0px;
+    background: #0a2345;
+}
+.d-tittle-top h1 {
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 35px;
+}
+.vol {
+    display: block;
+    margin: 0 auto;
+}
+
+.d-main h3 {
+   text-align: center;
+}
+.beatt {
+    padding-top: 10px;
+    display: block;
+    margin: 0 auto;
+}
+.mobilee {
+    width: 30%;}
+    .headp {
+        display: block;
+    margin: 0 auto;
+}
+.disc {
+    padding-top: 10px;
+    display: block;
+    margin: 0 auto;
+}
+.dd-main h3 {
+    text-align: center;
+}
+.sec-D {
+    padding-bottom: 0px;
+}
+.e-tittle img {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: block;
+    width: 15%;
+    margin: 0 auto;
+}
+
+.e-tittle h3 {
+    font-size: 33px;
+    text-align: center;}
+
+.sec-E {
+
+    padding-bottom: 370px;}
+
+
+.qq {
+    width: 11%;
+    float: none;
+    padding-top: 4px;
+    margin: 0 auto;
+    display: block;
+}
+.cc-tittle p {
+    float: none;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.f-top h5 {
+    padding-top: 55px;
+    padding-bottom: 5px;
+}
+
+.head-tittle h1 {
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+
+.tittle-g h1 {
+    font-size: 36px;
+    padding-bottom: 10px;
+}
+
+.sec-F {
+    background: #071327;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sec-G {
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.tittle-g p {
+    padding-bottom: 30px;
+}
+.foot-right p {
+    text-align: center;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+
+@media (min-width: 992px ) and (max-width: 1200px){
+
+}
